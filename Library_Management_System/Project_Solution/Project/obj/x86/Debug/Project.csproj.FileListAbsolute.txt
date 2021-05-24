@@ -1,5 +1,0 @@
-C:\Users\Developer\documents\visual studio 2010\Projects\Project\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
-C:\Users\Developer\documents\visual studio 2010\Projects\Project\Project\bin\Debug\Project.exe
-C:\Users\Developer\documents\visual studio 2010\Projects\Project\Project\bin\Debug\Project.pdb
-C:\Users\Developer\documents\visual studio 2010\Projects\Project\Project\obj\x86\Debug\Project.exe
-C:\Users\Developer\documents\visual studio 2010\Projects\Project\Project\obj\x86\Debug\Project.pdb
